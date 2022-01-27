@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":"mBAEAA,QAAQC,IAAI,U","sources":["webpack://keybord_event/./src/js/index.js"],"sourcesContent":["import \"../css/style.css\"\n\nconsole.log(\"Hello\");"],"names":["console","log"],"sourceRoot":""}
