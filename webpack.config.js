@@ -14,6 +14,12 @@ module.exports = {
   },
   devtool: "source-map", 
   mode: "development", 
+  devServer: {
+    host: "localhost",
+    port:8080,
+    open:true,
+    watchFiles: 'idnex.html'
+  },
   plugins: [
     new HtmlWebpack({
       title: "keybord",
