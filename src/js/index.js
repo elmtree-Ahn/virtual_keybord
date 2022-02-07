@@ -1,3 +1,6 @@
 import "../css/style.css"
+import { Keyboard } from "./keybord"
 
-console.log("Hello");
+const keyboard = new Keyboard();
+
+
